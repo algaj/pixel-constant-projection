@@ -4,6 +4,8 @@ Addon for Blender that helps with fitting object of interest in the pixel consta
 
 Tested on Blender 3.2.1, but could work on other versions.
 
+![screenshot](https://github.com/algaj/pixel-constant-projection/blob/main/screenshots/tool_screenshot.png?raw=true)
+
 ## Usage
 - Locate `Pixel Constant Projection` in the right side panel of the 3D viewport
 - Set camera angle, distance from center and pixels per unit
