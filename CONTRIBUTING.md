@@ -4,10 +4,10 @@
 If you encounter any issues or bugs in the project, please check the existing issues to see if the problem has already been reported. 
 If not, you can create a new issue providing the following information:
 
-    A clear and descriptive title
-    Detailed steps to reproduce the issue
-    Expected and actual behavior
-    Relevant screenshots or error messages
+- A clear and descriptive title
+- Detailed steps to reproduce the issue
+- Expected and actual behavior
+- Relevant screenshots or error messages
 
 ## Feature Requests
 
