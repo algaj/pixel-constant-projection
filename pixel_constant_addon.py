@@ -6,12 +6,16 @@ from bpy.props import IntProperty
 
 
 bl_info = {
-    "name": "Prerender Tools",
+    "name": "Pixel Constant Projection",
     "author": "Aleš Gajdacz",
+    "version": "1.0.0",
+    "location": "3D Viewport -> right toolbar -> Pixel Constant Projection",
     "blender": (3, 2, 1),
-    "description": "Manipulates camera so it is pixel constant and selected object fills whole frame.",
+    "description": "Fit camera view to selected object.",
     "category": "3D View",
     "support": "COMMUNITY",
+    "wiki_url": "https://github.com/algaj/PixelConstantAddon",
+    "tracker_url": "https://github.com/algaj/PixelConstantAddon/issues",
 }
 
 # camera - active camera
